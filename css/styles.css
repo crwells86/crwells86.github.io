@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 header {
-    background: #1da1f2;
+    background: #2C0302;
     color: white;
     padding: 10px;
     text-align: center;
@@ -14,10 +14,12 @@ header {
     font-weight: bold;
 }
 .sub-header {
+    background: #2C0302;
+    color: #ffffff;
     text-align: center;
     font-size: 16px;
-    color: #ffffff;
     margin-top: -5px;
+    padding-bottom: 8px;
     font-weight: normal;
 }
 .nav {
@@ -33,7 +35,7 @@ header {
     padding: 10px 20px;
     cursor: pointer;
     font-size: 16px;
-    color: #1da1f2;
+    color: #2C0302;
 }
 .nav button:hover {
     text-decoration: underline;
